@@ -1,0 +1,7 @@
+{
+  "name": "martindale/jit",
+  "description": "first library from martindale",
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
